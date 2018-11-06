@@ -1,3 +1,5 @@
+// Acronym Controller
+
 import Vapor
 
 struct AcronymsController: RouteCollection {

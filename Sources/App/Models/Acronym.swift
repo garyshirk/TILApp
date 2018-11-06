@@ -1,3 +1,5 @@
+// Acronym Model
+
 import FluentSQLite
 import Vapor
 
